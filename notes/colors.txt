@@ -1,0 +1,15 @@
+maroon
+    #990000
+
+red-maroon gradient
+    linear-gradient(347deg, rgba(153,0,0,1) 30%, rgba(255,0,0,1) 100%);
+
+
+light box shadow
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;	
+
+heavy box shadow
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+faculty cards hover scale
+    105%
